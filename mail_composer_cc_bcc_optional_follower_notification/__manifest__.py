@@ -4,10 +4,10 @@
     "name": "Email CC and BCC",
     "summary": """This module bridges the functions of Email CC and BB with Mail optional
     follower notification.""",
-    "version": "16.0.2.0.6",
+    "version": "19.0.1.0.0",
     "development_status": "Alpha",
     "category": "Social",
-    "website": "https://github.com/OCA/social",
+    "website": "https://github.com/OCA/mail",
     "author": "initOS GmbH, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
